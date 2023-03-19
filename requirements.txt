@@ -1,0 +1,7 @@
+Django==3.2.18
+django-cors-headers==3.14.0
+django-filter==22.1
+django-graphql-jwt==0.3.4
+graphene>=3.0
+graphene-django==3.0.0
+graphene-crud-maker==1.1.0
